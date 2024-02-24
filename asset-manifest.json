@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/Emote-Quiz-App/static/css/main.d83f44cf.css",
-    "main.js": "/Emote-Quiz-App/static/js/main.0e962000.js",
+    "main.js": "/Emote-Quiz-App/static/js/main.93cc5b52.js",
+    "static/media/inside-out.jpeg": "/Emote-Quiz-App/static/media/inside-out.a70707b3b7764ec01f64.jpeg",
     "static/media/sadness.png": "/Emote-Quiz-App/static/media/sadness.c4ad5eb64455faa98144.png",
     "static/media/anger.png": "/Emote-Quiz-App/static/media/anger.1daa8a668a64e163ab95.png",
     "static/media/fear.png": "/Emote-Quiz-App/static/media/fear.5f618406cfccb0d7541f.png",
@@ -9,10 +10,10 @@
     "static/media/happy.png": "/Emote-Quiz-App/static/media/happy.095cf2b099ae6f194568.png",
     "index.html": "/Emote-Quiz-App/index.html",
     "main.d83f44cf.css.map": "/Emote-Quiz-App/static/css/main.d83f44cf.css.map",
-    "main.0e962000.js.map": "/Emote-Quiz-App/static/js/main.0e962000.js.map"
+    "main.93cc5b52.js.map": "/Emote-Quiz-App/static/js/main.93cc5b52.js.map"
   },
   "entrypoints": [
     "static/css/main.d83f44cf.css",
-    "static/js/main.0e962000.js"
+    "static/js/main.93cc5b52.js"
   ]
 }
